@@ -2,7 +2,7 @@
 
 **AI Engineer · 6 years building production systems at the intersection of LLMs, backend engineering, and ML infrastructure**
 
-Based in India. Open to Senior AI Engineering, GenAI Engineering, and ML Engineering roles.
+Open to Senior AI Engineering, GenAI Engineering, and ML Engineering roles.
 
 ---
 
