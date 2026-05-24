@@ -91,5 +91,5 @@ Documentation as a first-class artifact. If it isn't documented, it doesn't exis
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/preetham-reddy](https://linkedin.com/in/preetham-reddy)
+- LinkedIn: [linkedin.com/in/preetham-reddy](https://www.linkedin.com/in/preethamr-dev)
 - Open to work: Senior AI Engineer · GenAI Engineer · ML Engineer · Backend AI Engineer
